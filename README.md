@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Firebase and API integration**
 
 - 💬 Ask me about **Flutter,Android**
 
