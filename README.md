@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, Firebase and REST API**
 
-- 💬 Ask me about **Flutter,Android and java**
+- 💬 Ask me about **Flutte,Android and java**
 
 - 📫 How to reach me **javidsaliq@gmail.com**
 
