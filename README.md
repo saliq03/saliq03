@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saliq Javeed Dar</h1>
 <h3 align="center">A passionate mobile app developer and aspiring software engineer from MANUU, Hyderabad, crafting innovative solutions for real-life challenges.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-developers-are-coding-programs-on-computers-programmers-are-analyzing-data-png-image_11902650.png">
+<img align="right" alt="Coding" width="340" src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-developers-are-coding-programs-on-computers-programmers-are-analyzing-data-png-image_11902650.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saliq03&label=Profile%20views&color=0e75b6&style=flat" alt="saliq03" /> </p>
 
